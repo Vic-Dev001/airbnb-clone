@@ -8,3 +8,8 @@ It is a practice based project, geared towards mastering some front end technolo
 
 **I am yet to add the the scroll effect on the real website to this clone, hoping to use this as a means of learning how to use Javacript to add slider effect on bootstrap containers.**
 
+Check out the sites
+
+Airbnb clone: https://vic-dev001.github.io/airbnb-clone/
+
+Airbnb https://www.airbnb.com/
